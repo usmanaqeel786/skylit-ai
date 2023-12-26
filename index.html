@@ -1,0 +1,28 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Example</title>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script>
+        const socket = io('http://localhost:3000');
+        console.log(socket);
+        socket.on('connect', () => {
+            console.log('Connected to WebSocket');
+            socket.emit('subscribe_open_interest', { symbols: ['SPX', 'SPXW'] });
+        });
+
+        socket.on('open_interest', (msg) => {
+            console.log(`Received open interest: ${JSON.stringify(msg)}`);
+        });
+
+        socket.on('disconnect', () => {
+            console.log('Disconnected from WebSocket');
+        });
+    </script>
+</body>
+</html>

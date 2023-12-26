@@ -1,0 +1,527 @@
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23174189 sequence: 1103928617 size: 1 condition: AUTO_EXECUTION price: 4.0 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23174189 bid_size: 95 bid_exchange: XCBO bid_price: 3.8 bid_condition: NATIONAL_BBO ask_size: 42 ask_exchange: XCBO ask_price: 4.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23177990 sequence: 1103947452 size: 1 condition: AUTO_EXECUTION price: 2.65 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23177990 bid_size: 117 bid_exchange: XCBO bid_price: 2.65 bid_condition: NATIONAL_BBO ask_size: 85 ask_exchange: XCBO ask_price: 2.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23178498 sequence: 1103948708 size: 1 condition: AUTO_EXECUTION price: 7.4 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23178498 bid_size: 45 bid_exchange: XCBO bid_price: 7.2 bid_condition: NATIONAL_BBO ask_size: 20 ask_exchange: XCBO ask_price: 7.5 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4625.0 isCall: True
+trade: ms_of_day: 23180071 sequence: 1103998625 size: 1 condition: AUTO_EXECUTION price: 1.15 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23180071 bid_size: 368 bid_exchange: XCBO bid_price: 1.0 bid_condition: NATIONAL_BBO ask_size: 148 ask_exchange: XCBO ask_price: 1.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4610.0 isCall: True
+trade: ms_of_day: 23180556 sequence: 1104005171 size: 1 condition: AUTO_EXECUTION price: 3.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23180556 bid_size: 57 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 36 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23183137 sequence: 1104033975 size: 3 condition: AUTO_EXECUTION price: 0.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23183137 bid_size: 1 bid_exchange: XCBO bid_price: 0.85 bid_condition: NATIONAL_BBO ask_size: 389 ask_exchange: XCBO ask_price: 0.95 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: False
+trade: ms_of_day: 23189188 sequence: 1104089337 size: 1 condition: AUTO_EXECUTION price: 12.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23189188 bid_size: 13 bid_exchange: XCBO bid_price: 12.7 bid_condition: NATIONAL_BBO ask_size: 12 ask_exchange: XCBO ask_price: 13.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-15 strike: 4400.0 isCall: False
+trade: ms_of_day: 23190494 sequence: 1104099762 size: 1 condition: AUTO_EXECUTION price: 1.0 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23190494 bid_size: 143 bid_exchange: XCBO bid_price: 1.0 bid_condition: NATIONAL_BBO ask_size: 1600 ask_exchange: XCBO ask_price: 1.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23192019 sequence: 1104123389 size: 1 condition: AUTO_EXECUTION price: 1.3 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23192019 bid_size: 319 bid_exchange: XCBO bid_price: 1.2 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 1.3 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23192019 sequence: 1104123390 size: 1 condition: AUTO_EXECUTION price: 1.3 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23192019 bid_size: 319 bid_exchange: XCBO bid_price: 1.2 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 1.3 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23194343 sequence: 1104190501 size: 1 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23194343 bid_size: 135 bid_exchange: XCBO bid_price: 2.7 bid_condition: NATIONAL_BBO ask_size: 55 ask_exchange: XCBO ask_price: 2.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+[12-11-2023 16:26:52] INFO: [FPSS] Connection lost... Attempting to reconnect every 5 seconds
+[12-11-2023 16:26:53] INFO: [FPSS] CONNECTED: [nj-a.thetadata.us:20000], Bundle: PRO, Permissions: Real-Time
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4635.0 isCall: True
+trade: ms_of_day: 23221242 sequence: 1104459545 size: 1 condition: AUTO_EXECUTION price: 0.45 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23221242 bid_size: 548 bid_exchange: XCBO bid_price: 0.35 bid_condition: NATIONAL_BBO ask_size: 532 ask_exchange: XCBO ask_price: 0.45 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23221919 sequence: 1104467602 size: 1 condition: AUTO_EXECUTION price: 1.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23221919 bid_size: 65 bid_exchange: XCBO bid_price: 1.85 bid_condition: NATIONAL_BBO ask_size: 5 ask_exchange: XCBO ask_price: 1.95 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23221944 sequence: 1104477122 size: 10 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23221944 sequence: 1104477123 size: 10 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4470.0 isCall: False
+trade: ms_of_day: 23225301 sequence: 1104514714 size: 1 condition: AUTO_EXECUTION price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23225301 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 235 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4630.0 isCall: True
+trade: ms_of_day: 23226797 sequence: 1104525004 size: 1 condition: AUTO_EXECUTION price: 0.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23226797 bid_size: 490 bid_exchange: XCBO bid_price: 0.6 bid_condition: NATIONAL_BBO ask_size: 496 ask_exchange: XCBO ask_price: 0.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4545.0 isCall: False
+trade: ms_of_day: 23229792 sequence: 1104541149 size: 25 condition: AUTO_EXECUTION price: 0.25 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23229792 bid_size: 751 bid_exchange: XCBO bid_price: 0.2 bid_condition: NATIONAL_BBO ask_size: 491 ask_exchange: XCBO ask_price: 0.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4545.0 isCall: False
+trade: ms_of_day: 23229792 sequence: 1104541152 size: 25 condition: AUTO_EXECUTION price: 0.25 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23229792 bid_size: 751 bid_exchange: XCBO bid_price: 0.2 bid_condition: NATIONAL_BBO ask_size: 416 ask_exchange: XCBO ask_price: 0.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4545.0 isCall: False
+trade: ms_of_day: 23229792 sequence: 1104541155 size: 75 condition: AUTO_EXECUTION price: 0.25 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23229792 bid_size: 751 bid_exchange: XCBO bid_price: 0.2 bid_condition: NATIONAL_BBO ask_size: 341 ask_exchange: XCBO ask_price: 0.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4545.0 isCall: False
+trade: ms_of_day: 23229792 sequence: 1104541156 size: 75 condition: AUTO_EXECUTION price: 0.25 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23229792 bid_size: 751 bid_exchange: XCBO bid_price: 0.2 bid_condition: NATIONAL_BBO ask_size: 341 ask_exchange: XCBO ask_price: 0.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23230322 sequence: 1104541670 size: 30 condition: AUTO_EXECUTION price: 1.65 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23230322 bid_size: 27 bid_exchange: XCBO bid_price: 1.65 bid_condition: NATIONAL_BBO ask_size: 90 ask_exchange: XCBO ask_price: 1.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23232502 sequence: 1104544596 size: 1 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23232502 bid_size: 2 bid_exchange: XCBO bid_price: 2.7 bid_condition: NATIONAL_BBO ask_size: 43 ask_exchange: XCBO ask_price: 2.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23235157 sequence: 1104549641 size: 2 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23235157 bid_size: 2 bid_exchange: XCBO bid_price: 2.7 bid_condition: NATIONAL_BBO ask_size: 43 ask_exchange: XCBO ask_price: 2.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4610.0 isCall: True
+trade: ms_of_day: 23243238 sequence: 1104647331 size: 1 condition: AUTO_EXECUTION price: 3.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23243238 bid_size: 32 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 67 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4610.0 isCall: True
+trade: ms_of_day: 23243238 sequence: 1104647332 size: 5 condition: AUTO_EXECUTION price: 3.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23243238 bid_size: 32 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 67 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23243387 sequence: 1104660771 size: 1 condition: AUTO_EXECUTION price: 1.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23243387 bid_size: 134 bid_exchange: XCBO bid_price: 1.85 bid_condition: NATIONAL_BBO ask_size: 110 ask_exchange: XCBO ask_price: 2.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4635.0 isCall: True
+trade: ms_of_day: 23245035 sequence: 1104744271 size: 1 condition: AUTO_EXECUTION price: 0.4 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23245035 bid_size: 548 bid_exchange: XCBO bid_price: 0.35 bid_condition: NATIONAL_BBO ask_size: 481 ask_exchange: XCBO ask_price: 0.45 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23250972 sequence: 1104757630 size: 1 condition: AUTO_EXECUTION price: 1.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23250972 bid_size: 56 bid_exchange: XCBO bid_price: 1.85 bid_condition: NATIONAL_BBO ask_size: 178 ask_exchange: XCBO ask_price: 2.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4595.0 isCall: True
+trade: ms_of_day: 23254491 sequence: 1104804738 size: 1 condition: AUTO_EXECUTION price: 9.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23254491 bid_size: 17 bid_exchange: XCBO bid_price: 9.8 bid_condition: NATIONAL_BBO ask_size: 38 ask_exchange: XCBO ask_price: 10.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4615.0 isCall: True
+trade: ms_of_day: 23255130 sequence: 1104829611 size: 2 condition: AUTO_EXECUTION price: 2.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23255130 bid_size: 46 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 129 ask_exchange: XCBO ask_price: 2.65 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23255136 sequence: 1104832136 size: 2 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23255136 bid_size: 80 bid_exchange: XCBO bid_price: 2.65 bid_condition: NATIONAL_BBO ask_size: 44 ask_exchange: XCBO ask_price: 2.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4630.0 isCall: True
+trade: ms_of_day: 23258419 sequence: 1104914982 size: 1 condition: AUTO_EXECUTION price: 0.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23258419 bid_size: 70 bid_exchange: XCBO bid_price: 0.65 bid_condition: NATIONAL_BBO ask_size: 483 ask_exchange: XCBO ask_price: 0.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23259302 sequence: 1104921686 size: 1 condition: AUTO_EXECUTION price: 1.3 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23259302 bid_size: 241 bid_exchange: XCBO bid_price: 1.2 bid_condition: NATIONAL_BBO ask_size: 335 ask_exchange: XCBO ask_price: 1.35 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4590.0 isCall: False
+trade: ms_of_day: 23266676 sequence: 1105007938 size: 1 condition: AUTO_EXECUTION price: 5.6 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23266676 bid_size: 3 bid_exchange: XCBO bid_price: 5.4 bid_condition: NATIONAL_BBO ask_size: 44 ask_exchange: XCBO ask_price: 5.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23271619 sequence: 1105040328 size: 1 condition: AUTO_EXECUTION price: 2.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23271619 bid_size: 101 bid_exchange: XCBO bid_price: 2.65 bid_condition: NATIONAL_BBO ask_size: 56 ask_exchange: XCBO ask_price: 2.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23275855 sequence: 1105089494 size: 1 condition: AUTO_EXECUTION price: 0.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23275855 bid_size: 2 bid_exchange: XCBO bid_price: 0.85 bid_condition: NATIONAL_BBO ask_size: 91 ask_exchange: XCBO ask_price: 0.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23276628 sequence: 1105096298 size: 1 condition: AUTO_EXECUTION price: 1.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23276628 bid_size: 155 bid_exchange: XCBO bid_price: 1.8 bid_condition: NATIONAL_BBO ask_size: 180 ask_exchange: XCBO ask_price: 1.95 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23278147 sequence: 1105100585 size: 9 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23278147 sequence: 1105100586 size: 9 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23278151 sequence: 1105101117 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23278151 sequence: 1105101118 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23279724 sequence: 1105132490 size: 1 condition: AUTO_EXECUTION price: 0.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23279724 bid_size: 1 bid_exchange: XCBO bid_price: 0.85 bid_condition: NATIONAL_BBO ask_size: 197 ask_exchange: XCBO ask_price: 0.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4595.0 isCall: False
+trade: ms_of_day: 23284274 sequence: 1105169911 size: 1 condition: AUTO_EXECUTION price: 7.3 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23284274 bid_size: 32 bid_exchange: XCBO bid_price: 7.3 bid_condition: NATIONAL_BBO ask_size: 45 ask_exchange: XCBO ask_price: 7.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4610.0 isCall: True
+trade: ms_of_day: 23291604 sequence: 1105248152 size: 1 condition: AUTO_EXECUTION price: 3.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23291604 bid_size: 32 bid_exchange: XCBO bid_price: 3.7 bid_condition: NATIONAL_BBO ask_size: 36 ask_exchange: XCBO ask_price: 3.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23292087 sequence: 1105249734 size: 1 condition: AUTO_EXECUTION price: 0.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23292087 bid_size: 1 bid_exchange: XCBO bid_price: 0.85 bid_condition: NATIONAL_BBO ask_size: 341 ask_exchange: XCBO ask_price: 0.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-15 strike: 4635.0 isCall: True
+trade: ms_of_day: 23293557 sequence: 1105266996 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 15.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23287988 bid_size: 12 bid_exchange: XCBO bid_price: 14.9 bid_condition: NATIONAL_BBO ask_size: 114 ask_exchange: XCBO ask_price: 15.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-15 strike: 4640.0 isCall: True
+trade: ms_of_day: 23293557 sequence: 1105266997 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 13.45 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23291047 bid_size: 64 bid_exchange: XCBO bid_price: 13.3 bid_condition: NATIONAL_BBO ask_size: 48 ask_exchange: XCBO ask_price: 13.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23298121 sequence: 1105290772 size: 1 condition: AUTO_EXECUTION price: 1.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23298121 bid_size: 144 bid_exchange: XCBO bid_price: 1.65 bid_condition: NATIONAL_BBO ask_size: 25 ask_exchange: XCBO ask_price: 1.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPX isOption: True exp: 2023-12-15 strike: 4350.0 isCall: True
+trade: ms_of_day: 23300243 sequence: 1105298153 size: 10 condition: AUTO_EXECUTION price: 251.0 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23300243 bid_size: 5 bid_exchange: XCBO bid_price: 247.2 bid_condition: NATIONAL_BBO ask_size: 5 ask_exchange: XCBO ask_price: 254.7 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23300248 sequence: 1105299903 size: 1 condition: AUTO_EXECUTION price: 0.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23300248 bid_size: 298 bid_exchange: XCBO bid_price: 0.8 bid_condition: NATIONAL_BBO ask_size: 279 ask_exchange: XCBO ask_price: 0.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23311799 sequence: 1105406365 size: 5 condition: AUTO_EXECUTION price: 7.5 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23311799 bid_size: 21 bid_exchange: XCBO bid_price: 7.4 bid_condition: NATIONAL_BBO ask_size: 69 ask_exchange: XCBO ask_price: 7.7 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: XSP isOption: True exp: 2023-12-11 strike: 459.0 isCall: False
+trade: ms_of_day: 23314954 sequence: 1105458086 size: 1 condition: AUTO_EXECUTION price: 0.53 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23314954 bid_size: 72 bid_exchange: XCBO bid_price: 0.5 bid_condition: NATIONAL_BBO ask_size: 99 ask_exchange: XCBO ask_price: 0.58 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23314963 sequence: 1105461847 size: 1 condition: AUTO_EXECUTION price: 3.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23314963 bid_size: 82 bid_exchange: XCBO bid_price: 3.7 bid_condition: NATIONAL_BBO ask_size: 43 ask_exchange: XCBO ask_price: 3.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: True
+trade: ms_of_day: 23315002 sequence: 1105477042 size: 1 condition: AUTO_EXECUTION price: 5.5 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23315002 bid_size: 22 bid_exchange: XCBO bid_price: 5.4 bid_condition: NATIONAL_BBO ask_size: 44 ask_exchange: XCBO ask_price: 5.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4615.0 isCall: True
+trade: ms_of_day: 23315002 sequence: 1105477229 size: 2 condition: AUTO_EXECUTION price: 2.65 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23315002 bid_size: 42 bid_exchange: XCBO bid_price: 2.6 bid_condition: NATIONAL_BBO ask_size: 136 ask_exchange: XCBO ask_price: 2.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-29 strike: 4605.0 isCall: True
+trade: ms_of_day: 23315005 sequence: 1105478374 size: 1 condition: AUTO_EXECUTION price: 48.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23314957 bid_size: 11 bid_exchange: XCBO bid_price: 48.4 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 48.7 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4630.0 isCall: True
+trade: ms_of_day: 23315721 sequence: 1105576012 size: 1 condition: AUTO_EXECUTION price: 0.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23315721 bid_size: 428 bid_exchange: XCBO bid_price: 0.65 bid_condition: NATIONAL_BBO ask_size: 709 ask_exchange: XCBO ask_price: 0.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23320776 sequence: 1105637139 size: 1 condition: AUTO_EXECUTION price: 3.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23320776 bid_size: 127 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 32 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757755 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757756 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757757 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757758 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757759 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757760 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757761 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757762 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757763 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23079295 bid_size: 2107 bid_exchange: XCBO bid_price: 0.05 bid_condition: NATIONAL_BBO ask_size: 1085 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23322435 sequence: 1105757764 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23036626 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 192 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23331223 sequence: 1105857976 size: 1 condition: AUTO_EXECUTION price: 1.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23331223 bid_size: 205 bid_exchange: XCBO bid_price: 1.7 bid_condition: NATIONAL_BBO ask_size: 173 ask_exchange: XCBO ask_price: 1.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4625.0 isCall: True
+trade: ms_of_day: 23335993 sequence: 1105899474 size: 1 condition: MULTI_LEG_AUTO_ELEC_TRADE_AGAINST_SINGLE_LEG price: 1.15 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23335993 bid_size: 53 bid_exchange: XCBO bid_price: 1.1 bid_condition: NATIONAL_BBO ask_size: 14 ask_exchange: XCBO ask_price: 1.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4690.0 isCall: True
+trade: ms_of_day: 23335993 sequence: 1105899475 size: 1 condition: MULTI_LEG_AUTO_ELEC_TRADE_AGAINST_SINGLE_LEG price: 0.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23335993 bid_size: 0 bid_exchange: XCBO bid_price: 0.0 bid_condition: NATIONAL_BBO ask_size: 191 ask_exchange: XCBO ask_price: 0.05 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23346229 sequence: 1105959461 size: 1 condition: AUTO_EXECUTION price: 7.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23346229 bid_size: 17 bid_exchange: XCBO bid_price: 7.6 bid_condition: NATIONAL_BBO ask_size: 17 ask_exchange: XCBO ask_price: 7.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23348537 sequence: 1105993391 size: 1 condition: AUTO_EXECUTION price: 2.6 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23348537 bid_size: 134 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 45 ask_exchange: XCBO ask_price: 2.65 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-12 strike: 4585.0 isCall: False
+trade: ms_of_day: 23348736 sequence: 1106054227 size: 1 condition: AUTO_EXECUTION price: 11.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23348736 bid_size: 11 bid_exchange: XCBO bid_price: 11.6 bid_condition: NATIONAL_BBO ask_size: 18 ask_exchange: XCBO ask_price: 11.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23357758 sequence: 1106168220 size: 1 condition: AUTO_EXECUTION price: 1.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23357758 bid_size: 25 bid_exchange: XCBO bid_price: 1.75 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 1.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4625.0 isCall: True
+trade: ms_of_day: 23360872 sequence: 1106190091 size: 1 condition: AUTO_EXECUTION price: 1.25 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23360872 bid_size: 242 bid_exchange: XCBO bid_price: 1.1 bid_condition: NATIONAL_BBO ask_size: 408 ask_exchange: XCBO ask_price: 1.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23360911 sequence: 1106190262 size: 1 condition: AUTO_EXECUTION price: 2.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23360911 bid_size: 105 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 2.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: XSP isOption: True exp: 2023-12-15 strike: 453.0 isCall: False
+trade: ms_of_day: 23365327 sequence: 1106232244 size: 1 condition: AUTO_EXECUTION price: 0.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23365327 bid_size: 159 bid_exchange: XCBO bid_price: 0.75 bid_condition: NATIONAL_BBO ask_size: 260 ask_exchange: XCBO ask_price: 0.81 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23367752 sequence: 1106246769 size: 1 condition: AUTO_EXECUTION price: 1.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23367752 bid_size: 1 bid_exchange: XCBO bid_price: 1.8 bid_condition: NATIONAL_BBO ask_size: 218 ask_exchange: XCBO ask_price: 1.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23368057 sequence: 1106247283 size: 1 condition: AUTO_EXECUTION price: 2.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23368057 bid_size: 46 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 2 ask_exchange: XCBO ask_price: 2.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23368062 sequence: 1106247726 size: 1 condition: AUTO_EXECUTION price: 3.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23368062 bid_size: 32 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 42 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23368285 sequence: 1106325890 size: 1 condition: AUTO_EXECUTION price: 0.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23368285 bid_size: 421 bid_exchange: XCBO bid_price: 0.75 bid_condition: NATIONAL_BBO ask_size: 66 ask_exchange: XCBO ask_price: 0.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23371646 sequence: 1106384804 size: 1 condition: AUTO_EXECUTION price: 7.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23371646 bid_size: 17 bid_exchange: XCBO bid_price: 7.7 bid_condition: NATIONAL_BBO ask_size: 17 ask_exchange: XCBO ask_price: 7.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23373580 sequence: 1106418844 size: 1 condition: AUTO_EXECUTION price: 1.2 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23373580 bid_size: 1 bid_exchange: XCBO bid_price: 1.2 bid_condition: NATIONAL_BBO ask_size: 284 ask_exchange: XCBO ask_price: 1.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23375363 sequence: 1106441803 size: 1 condition: AUTO_EXECUTION price: 1.2 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23375363 bid_size: 2 bid_exchange: XCBO bid_price: 1.15 bid_condition: NATIONAL_BBO ask_size: 284 ask_exchange: XCBO ask_price: 1.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4615.0 isCall: True
+trade: ms_of_day: 23382251 sequence: 1106489125 size: 1 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23382251 bid_size: 1 bid_exchange: XCBO bid_price: 2.7 bid_condition: NATIONAL_BBO ask_size: 173 ask_exchange: XCBO ask_price: 2.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: XSP isOption: True exp: 2023-12-11 strike: 457.0 isCall: False
+trade: ms_of_day: 23383053 sequence: 1106498791 size: 1 condition: AUTO_EXECUTION price: 0.11 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23383053 bid_size: 255 bid_exchange: XCBO bid_price: 0.11 bid_condition: NATIONAL_BBO ask_size: 642 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23383472 sequence: 1106502854 size: 1 condition: AUTO_EXECUTION price: 3.6 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23383472 bid_size: 31 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 81 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-12 strike: 4540.0 isCall: False
+trade: ms_of_day: 23383650 sequence: 1106503299 size: 2 condition: AUTO_EXECUTION price: 2.05 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23383650 bid_size: 214 bid_exchange: XCBO bid_price: 2.0 bid_condition: NATIONAL_BBO ask_size: 189 ask_exchange: XCBO ask_price: 2.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23384380 sequence: 1106507936 size: 2 condition: AUTO_EXECUTION price: 3.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23384380 bid_size: 31 bid_exchange: XCBO bid_price: 3.6 bid_condition: NATIONAL_BBO ask_size: 74 ask_exchange: XCBO ask_price: 3.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23390812 sequence: 1106540529 size: 1 condition: AUTO_EXECUTION price: 1.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23390812 bid_size: 1 bid_exchange: XCBO bid_price: 1.8 bid_condition: NATIONAL_BBO ask_size: 198 ask_exchange: XCBO ask_price: 1.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4555.0 isCall: False
+trade: ms_of_day: 23395745 sequence: 1106576971 size: 1 condition: AUTO_EXECUTION price: 0.4 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23395745 bid_size: 804 bid_exchange: XCBO bid_price: 0.35 bid_condition: NATIONAL_BBO ask_size: 380 ask_exchange: XCBO ask_price: 0.45 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23396178 sequence: 1106580026 size: 1 condition: AUTO_EXECUTION price: 2.6 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23396178 bid_size: 74 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 89 ask_exchange: XCBO ask_price: 2.65 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23396501 sequence: 1106582803 size: 1 condition: AUTO_EXECUTION price: 1.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23396501 bid_size: 128 bid_exchange: XCBO bid_price: 1.7 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 1.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: True
+trade: ms_of_day: 23396812 sequence: 1106585874 size: 2 condition: AUTO_EXECUTION price: 5.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23396812 bid_size: 10 bid_exchange: XCBO bid_price: 5.6 bid_condition: NATIONAL_BBO ask_size: 69 ask_exchange: XCBO ask_price: 5.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23400065 sequence: 1106679162 size: 1 condition: AUTO_EXECUTION price: 1.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23400065 bid_size: 56 bid_exchange: XCBO bid_price: 1.75 bid_condition: NATIONAL_BBO ask_size: 64 ask_exchange: XCBO ask_price: 1.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4635.0 isCall: True
+trade: ms_of_day: 23403304 sequence: 1106747907 size: 1 condition: AUTO_EXECUTION price: 0.5 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23403304 bid_size: 427 bid_exchange: XCBO bid_price: 0.4 bid_condition: NATIONAL_BBO ask_size: 806 ask_exchange: XCBO ask_price: 0.5 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23408663 sequence: 1106892762 size: 1 condition: AUTO_EXECUTION price: 1.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23408663 bid_size: 55 bid_exchange: XCBO bid_price: 1.75 bid_condition: NATIONAL_BBO ask_size: 212 ask_exchange: XCBO ask_price: 1.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4595.0 isCall: True
+trade: ms_of_day: 23410685 sequence: 1106906582 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 10.35 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23410381 bid_size: 17 bid_exchange: XCBO bid_price: 10.2 bid_condition: NATIONAL_BBO ask_size: 18 ask_exchange: XCBO ask_price: 10.5 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: True
+trade: ms_of_day: 23410685 sequence: 1106906583 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 5.65 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23410601 bid_size: 10 bid_exchange: XCBO bid_price: 5.6 bid_condition: NATIONAL_BBO ask_size: 4 ask_exchange: XCBO ask_price: 5.7 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4615.0 isCall: True
+trade: ms_of_day: 23414963 sequence: 1106948299 size: 1 condition: AUTO_EXECUTION price: 2.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23414963 bid_size: 42 bid_exchange: XCBO bid_price: 2.65 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 2.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4565.0 isCall: False
+trade: ms_of_day: 23422444 sequence: 1106995219 size: 1 condition: AUTO_EXECUTION price: 0.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23422444 bid_size: 24 bid_exchange: XCBO bid_price: 0.8 bid_condition: NATIONAL_BBO ask_size: 194 ask_exchange: XCBO ask_price: 0.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4625.0 isCall: True
+trade: ms_of_day: 23428181 sequence: 1107044048 size: 1 condition: AUTO_EXECUTION price: 1.2 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23428181 bid_size: 1 bid_exchange: XCBO bid_price: 1.15 bid_condition: NATIONAL_BBO ask_size: 402 ask_exchange: XCBO ask_price: 1.25 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4560.0 isCall: False
+trade: ms_of_day: 23429514 sequence: 1107068254 size: 1 condition: AUTO_EXECUTION price: 0.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429514 bid_size: 1 bid_exchange: XCBO bid_price: 0.55 bid_condition: NATIONAL_BBO ask_size: 440 ask_exchange: XCBO ask_price: 0.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4560.0 isCall: False
+trade: ms_of_day: 23429514 sequence: 1107068255 size: 1 condition: AUTO_EXECUTION price: 0.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429514 bid_size: 1 bid_exchange: XCBO bid_price: 0.55 bid_condition: NATIONAL_BBO ask_size: 440 ask_exchange: XCBO ask_price: 0.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23429515 sequence: 1107068840 size: 1 condition: AUTO_EXECUTION price: 7.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429515 bid_size: 17 bid_exchange: XCBO bid_price: 7.7 bid_condition: NATIONAL_BBO ask_size: 70 ask_exchange: XCBO ask_price: 8.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4610.0 isCall: True
+trade: ms_of_day: 23429522 sequence: 1107071559 size: 2 condition: AUTO_EXECUTION price: 4.0 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429522 bid_size: 55 bid_exchange: XCBO bid_price: 3.9 bid_condition: NATIONAL_BBO ask_size: 30 ask_exchange: XCBO ask_price: 4.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4595.0 isCall: False
+trade: ms_of_day: 23429552 sequence: 1107082970 size: 1 condition: AUTO_EXECUTION price: 7.0 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429543 bid_size: 1 bid_exchange: XCBO bid_price: 7.0 bid_condition: NATIONAL_BBO ask_size: 4 ask_exchange: XCBO ask_price: 7.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4590.0 isCall: False
+trade: ms_of_day: 23429733 sequence: 1107117783 size: 1 condition: AUTO_EXECUTION price: 5.1 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429733 bid_size: 37 bid_exchange: XCBO bid_price: 5.0 bid_condition: NATIONAL_BBO ask_size: 25 ask_exchange: XCBO ask_price: 5.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4615.0 isCall: True
+trade: ms_of_day: 23429736 sequence: 1107119028 size: 1 condition: AUTO_EXECUTION price: 2.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429736 bid_size: 42 bid_exchange: XCBO bid_price: 2.7 bid_condition: NATIONAL_BBO ask_size: 43 ask_exchange: XCBO ask_price: 2.85 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23429736 sequence: 1107119067 size: 1 condition: AUTO_EXECUTION price: 2.55 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429736 bid_size: 2 bid_exchange: XCBO bid_price: 2.5 bid_condition: NATIONAL_BBO ask_size: 76 ask_exchange: XCBO ask_price: 2.6 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: True
+trade: ms_of_day: 23429742 sequence: 1107121840 size: 3 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 5.74 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429730 bid_size: 32 bid_exchange: XCBO bid_price: 5.6 bid_condition: NATIONAL_BBO ask_size: 89 ask_exchange: XCBO ask_price: 5.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4605.0 isCall: False
+trade: ms_of_day: 23429742 sequence: 1107121841 size: 3 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 12.23 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429626 bid_size: 12 bid_exchange: XCBO bid_price: 12.1 bid_condition: NATIONAL_BBO ask_size: 12 ask_exchange: XCBO ask_price: 12.4 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23429742 sequence: 1107121842 size: 3 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.12 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23401086 bid_size: 251 bid_exchange: XCBO bid_price: 0.1 bid_condition: NATIONAL_BBO ask_size: 995 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4550.0 isCall: False
+trade: ms_of_day: 23429742 sequence: 1107121843 size: 3 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 0.3 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23429681 bid_size: 885 bid_exchange: XCBO bid_price: 0.25 bid_condition: NATIONAL_BBO ask_size: 988 ask_exchange: XCBO ask_price: 0.35 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: False
+trade: ms_of_day: 23430535 sequence: 1107162410 size: 1 condition: AUTO_EXECUTION price: 9.4 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23430535 bid_size: 18 bid_exchange: XCBO bid_price: 9.2 bid_condition: NATIONAL_BBO ask_size: 39 ask_exchange: XCBO ask_price: 9.5 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4630.0 isCall: True
+trade: ms_of_day: 23433365 sequence: 1107194401 size: 1 condition: AUTO_EXECUTION price: 0.8 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23433365 bid_size: 198 bid_exchange: XCBO bid_price: 0.7 bid_condition: NATIONAL_BBO ask_size: 495 ask_exchange: XCBO ask_price: 0.8 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4600.0 isCall: True
+trade: ms_of_day: 23441982 sequence: 1107253619 size: 1 condition: AUTO_EXECUTION price: 7.9 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23441982 bid_size: 17 bid_exchange: XCBO bid_price: 7.8 bid_condition: NATIONAL_BBO ask_size: 2 ask_exchange: XCBO ask_price: 8.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4650.0 isCall: True
+trade: ms_of_day: 23444896 sequence: 1107278855 size: 1 condition: AUTO_EXECUTION price: 0.15 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23444896 bid_size: 251 bid_exchange: XCBO bid_price: 0.1 bid_condition: NATIONAL_BBO ask_size: 948 ask_exchange: XCBO ask_price: 0.15 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4620.0 isCall: True
+trade: ms_of_day: 23448870 sequence: 1107309308 size: 1 condition: AUTO_EXECUTION price: 1.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23448870 bid_size: 77 bid_exchange: XCBO bid_price: 1.8 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 1.9 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4585.0 isCall: False
+trade: ms_of_day: 23452389 sequence: 1107343822 size: 10 condition: AUTO_EXECUTION price: 3.6 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23452389 bid_size: 129 bid_exchange: XCBO bid_price: 3.5 bid_condition: NATIONAL_BBO ask_size: 72 ask_exchange: XCBO ask_price: 3.7 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4580.0 isCall: False
+trade: ms_of_day: 23452464 sequence: 1107372194 size: 1 condition: AUTO_EXECUTION price: 2.5 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23452464 bid_size: 344 bid_exchange: XCBO bid_price: 2.4 bid_condition: NATIONAL_BBO ask_size: 46 ask_exchange: XCBO ask_price: 2.55 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2024-01-19 strike: 4385.0 isCall: True
+trade: ms_of_day: 23454376 sequence: 1107471512 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 253.54 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23452718 bid_size: 3 bid_exchange: XCBO bid_price: 251.0 bid_condition: NATIONAL_BBO ask_size: 3 ask_exchange: XCBO ask_price: 256.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2024-01-19 strike: 4740.0 isCall: True
+trade: ms_of_day: 23454376 sequence: 1107471513 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 22.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23454155 bid_size: 36 bid_exchange: XCBO bid_price: 22.7 bid_condition: NATIONAL_BBO ask_size: 72 ask_exchange: XCBO ask_price: 23.0 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2024-01-19 strike: 4465.0 isCall: True
+trade: ms_of_day: 23454376 sequence: 1107471514 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 183.24 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23452608 bid_size: 5 bid_exchange: XCBO bid_price: 180.9 bid_condition: NATIONAL_BBO ask_size: 5 ask_exchange: XCBO ask_price: 185.5 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2024-01-19 strike: 4660.0 isCall: True
+trade: ms_of_day: 23454376 sequence: 1107471515 size: 1 condition: MULTI_LEG_AUTO_ELECTRONIC_TRADE price: 50.85 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23452710 bid_size: 50 bid_exchange: XCBO bid_price: 50.6 bid_condition: NATIONAL_BBO ask_size: 48 ask_exchange: XCBO ask_price: 51.1 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23454431 sequence: 1107472621 size: 1 condition: AUTO_EXECUTION price: 1.2 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23454431 bid_size: 1 bid_exchange: XCBO bid_price: 1.15 bid_condition: NATIONAL_BBO ask_size: 115 ask_exchange: XCBO ask_price: 1.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4630.0 isCall: True
+trade: ms_of_day: 23456714 sequence: 1107485559 size: 1 condition: AUTO_EXECUTION price: 0.75 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23456648 bid_size: 419 bid_exchange: XCBO bid_price: 0.7 bid_condition: NATIONAL_BBO ask_size: 1 ask_exchange: XCBO ask_price: 0.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4575.0 isCall: False
+trade: ms_of_day: 23457382 sequence: 1107508762 size: 4 condition: AUTO_EXECUTION price: 1.7 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23457382 bid_size: 60 bid_exchange: XCBO bid_price: 1.65 bid_condition: NATIONAL_BBO ask_size: 184 ask_exchange: XCBO ask_price: 1.75 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
+con: root: SPXW isOption: True exp: 2023-12-11 strike: 4570.0 isCall: False
+trade: ms_of_day: 23457387 sequence: 1107511661 size: 1 condition: AUTO_EXECUTION price: 1.15 exchange: XCBO date: 2023-12-11
+last quote at time of trade: ms_of_day: 23456710 bid_size: 1 bid_exchange: XCBO bid_price: 1.15 bid_condition: NATIONAL_BBO ask_size: 195 ask_exchange: XCBO ask_price: 1.2 ask_condition: NATIONAL_BBO date: 2023-12-11
+---------------------------------------------------------------------------
