@@ -40,66 +40,10 @@ socket.on("open", () => {
 });
 
 let counter = 0;
-// Event listener for incoming messages
-// socket.on("message", async (message) => {
-//   const currentDate = new Date();
 
-//   // Add one month to the current date
-//   currentDate.setMonth(currentDate.getMonth() + 1);
-
-//   // Format the date as YYYYMMDD
-//   const year = currentDate.getFullYear();
-//   const month = (currentDate.getMonth() + 1).toString().padStart(2, "0");
-//   const day = currentDate.getDate().toString().padStart(2, "0");
-
-//   const formattedDate = year + month + day;
-//   let counterStatus = "No Status";
-//   let object = {};
-//   const result = JSON.parse(message.toString());
-//   if (
-//     result.header.type === "TRADE" &&
-//     result.contract.root === "SPXW" &&
-//     result.contract.expiration <= formattedDate
-//   ) {
-//     if (result.trade.price === result.quote.ask) {
-//       counter++;
-//       counterStatus = "Incremented";
-//       await TradeQuote.create({
-//         counter_value: counter,
-//         counter_status: counterStatus,
-//         root: result.contract.root,
-//         date: result.trade.date,
-//         expiration: result.contract.expiration,
-//         strike: result.contract.strike,
-//         right: result.contract.right,
-//       });
-//       console.log(`Counter: ${counter} Status: ${counterStatus} }`);
-//     } else if (result.trade.price === result.quote.bid) {
-//       counter--;
-//       counterStatus = "Decremented";
-//       await TradeQuote.create({
-//         counter_value: counter,
-//         counter_status: counterStatus,
-//         root: result.contract.root,
-//         date: result.trade.date || result.quote.date,
-//         expiration: result.contract.expiration,
-//         strike: result.contract.strike,
-//         right: result.contract.right,
-//       });
-//       console.log(`Counter: ${counter} Status: ${counterStatus} }`);
-//     } else {
-//       delete object.keys;
-//       delete object.values;
-//     }
-//   }
-// });
 socket.on("message", async (message) => {
   const currentDate = new Date();
-
-  // Add one month to the current date
   currentDate.setMonth(currentDate.getMonth() + 1);
-
-  // Format the date as YYYYMMDD
   const formattedDate = currentDate
     .toISOString()
     .slice(0, 10)
