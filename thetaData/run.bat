@@ -1,0 +1,1 @@
+java -jar ThetaTerminal.jar jimin@skylit.ai Glitch!2023
